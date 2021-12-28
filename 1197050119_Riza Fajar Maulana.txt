@@ -1,0 +1,8 @@
+Nama  : Riza Fajar Maulana
+NIM   : 1197050119
+Kelas : Teori E
+
+Judul 	   : Memprediksi pergerakan harga saham di bursa efek indonesia menggunakan metode jaringan syaraf tiruan 
+Data  	   : Dataset(.csv)
+Algoritma  : Jaringan Syaraf Tiruan
+Resource   : https://www.kaggle.com/tiwill/saham-idx	
